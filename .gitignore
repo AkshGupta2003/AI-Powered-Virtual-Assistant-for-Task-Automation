@@ -2,3 +2,4 @@ credentials.json
 email_credentials.json
 email_token.json
 token.json
+__pycache__
