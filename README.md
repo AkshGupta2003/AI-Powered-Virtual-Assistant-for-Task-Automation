@@ -35,3 +35,8 @@ Schedule a meet with ABC(ABC@gmail.com) on 16-09-2024 at 12PM for half an hour. 
 - calendar_service.py: Provides functions for adding, updating, and deleting events from Google Calendar.
 - gmail_service.py: Offers functionalities for sending emails through the Gmail API.
 - app.ipynb: The entry point for the project, initializing agents, registering functions, and starting the chat simulation.
+
+## Screenshots
+<p align="center">
+    <img src="https://github.com/arham202/Document-Generation-in-Healthcare-using-LLM/blob/c38039807af6cf23ae0737f053017dbb9bd2d3bf/Screenshots/Screenshot_20240722_113444.png">
+</p>
