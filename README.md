@@ -41,5 +41,4 @@ Schedule a meet with ABC(ABC@gmail.com) on 16-09-2024 at 12PM for half an hour. 
     <img src="https://github.com/AkshGupta2003/AI-Powered-Virtual-Assistant-for-Task-Automation/blob/main/Screenshot/event%20.png">
     &nbsp;
     <img src="https://github.com/AkshGupta2003/AI-Powered-Virtual-Assistant-for-Task-Automation/blob/main/Screenshot/mail.png">
-
 </p>
